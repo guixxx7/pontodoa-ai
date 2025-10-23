@@ -1,0 +1,51 @@
+body{
+    
+    background-color: rgba(59, 161, 175, 0.751);
+    
+}
+
+h1{
+   color: green;
+   text-align: center;
+   font-family: Arial, Helvetica, sans-serif;
+
+}
+
+h2{
+    font-family: sans-serif;
+}
+
+
+
+.bebida{
+    color: blue;
+}
+
+.sobremesa{
+    color: blue;
+}
+section{
+    background-color: white
+}
+
+.sobremesas{
+    background-color: gray;
+}
+
+footer{
+    color: white;
+    text-align: center;
+    background-color: black;
+    font-size: 9px;
+}
+
+p{
+    color: orange;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.p2{
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+}
+
